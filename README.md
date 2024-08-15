@@ -48,6 +48,7 @@ Para instalar as dependências, execute o seguinte comando:
 ```bash
 npm install
 ```
+<<<<<<< HEAD
 
 ## Análise de Riscos
 A análise de riscos é crucial para identificar e mitigar possíveis problemas que possam afetar o projeto. Os principais riscos incluem:
@@ -92,3 +93,50 @@ Agora, o projeto deve estar em execução e acessível em `http://localhost:3000
 
 ## Conclusão
 Este README fornece uma visão geral abrangente do projeto. Para mais informações, consulte a documentação adicional ou entre em contato com a equipe de desenvolvimento.
+=======
+
+## Análise de Riscos
+A análise de riscos é crucial para identificar e mitigar possíveis problemas que possam afetar o projeto. Os principais riscos incluem:
+
+1. **Risco de Segurança**
+   - **Mitigação:** Implementar autenticação robusta e criptografia de dados.
+
+2. **Risco de Desempenho**
+   - **Mitigação:** Realizar testes de carga e otimizar consultas ao banco de dados.
+
+3. **Risco de Atrasos no Cronograma**
+   - **Mitigação:** Utilizar metodologias ágeis para gerenciar o progresso do projeto.
+
+4. **Risco de Dependências Desatualizadas**
+   - **Mitigação:** Monitorar e atualizar regularmente as dependências do projeto.
+
+## Comandos de Inicialização
+Para iniciar o projeto, siga os passos abaixo:
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu_usuario/seu_projeto.git
+   cd seu_projeto
+   ```
+
+2. **Instale as dependências:**
+   ```bash
+   npm install
+   ```
+
+3. **Compile o TypeScript:**
+   ```bash
+   npx tsc
+   ```
+
+4. **Inicie o servidor:**
+   ```bash
+   npm start
+   ```
+
+Agora, o projeto deve estar em execução e acessível em `http://localhost:3000`.
+
+## Conclusão
+Este README fornece uma visão geral abrangente do projeto. Para mais informações, consulte a documentação adicional ou entre em contato com a equipe de desenvolvimento.
+
+>>>>>>> 0b6f29e534ea7d56775e50f194ba8866f99f0d7b
