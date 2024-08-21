@@ -140,3 +140,9 @@ Agora, o projeto deve estar em execução e acessível em `http://localhost:3000
 Este README fornece uma visão geral abrangente do projeto. Para mais informações, consulte a documentação adicional ou entre em contato com a equipe de desenvolvimento.
 
 >>>>>>> 0b6f29e534ea7d56775e50f194ba8866f99f0d7b
+>>>>>>>
+>>>>>>> Está é minha doc.
+>>>>>>>
+>>>>>>> Esta é a documentação de uma nova branch
+>>>>>>>
+>>>>>>> Autor: Wagner
